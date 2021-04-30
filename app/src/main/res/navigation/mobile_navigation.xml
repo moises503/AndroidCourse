@@ -13,7 +13,7 @@
 
     <fragment
         android:id="@+id/navigation_episodes"
-        android:name="com.moises.androidcoursetecnm.characters.CharactersFragment"
+        android:name="com.moises.androidcoursetecnm.characters.framework.ui.CharactersFragment"
         android:label="@string/title_episodes"
         tools:layout="@layout/fragment_characters" />
 
